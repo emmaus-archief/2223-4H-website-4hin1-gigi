@@ -21,7 +21,11 @@ of video op informatica college vwo laatste video
 */
 
 body  {
-  background-image: url(https://bestellen.fong-wah.nl/wp-content/uploads/2019/04/garnalen.jpg) no repeat 10px 250px;
+  background-image: url(https://bestellen.fong-wah.nl/wp-content/uploads/2019/04/garnalen.jpg);
+  background-color:#cccccc;
+  background-repeat: no repeat;
+  background-size: 100% 100%
+;
 }    /* zorg dat border meetelt bij de width en height van boxen *                   /* standaard marge 0 */
 }
 
