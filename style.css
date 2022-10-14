@@ -20,12 +20,8 @@ hulp? w3schools
 of video op informatica college vwo laatste video
 */
 
-body  {
   background-image: url(https://bestellen.fong-wah.nl/wp-content/uploads/2019/04/garnalen.jpg);
-  background-color:#cccccc;
-  background-repeat: no repeat;
-  background-size: 100% 100%
-;
+
 }    /* zorg dat border meetelt bij de width en height van boxen *                   /* standaard marge 0 */
 }
 
@@ -50,7 +46,8 @@ h1, h2, h3 {                      /* geldt voor h1 en h2 en h3 */
 
 p {
   margin: 10px 0px;
-  text-align: justify;            /* tekst links en rechts uitvullen */
+  text-align: justify;       
+  border-bottom-left-radius: ;/* tekst links en rechts uitvullen */
 }
 
 /* Indeling voor hoofd pagina */
