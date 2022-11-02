@@ -7,9 +7,12 @@
 
 /* Basisinstellingen voor alle pagina's, alleen aanpassen als je pro wilt worden */
 
-html, body {                      /* geldt voor html en body */
+html, body {     
+  background-image: url("afbeeldingen/lantaarn.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
   margin: 0px;                    /* standaard marge 0 */
-  background-color: #800000;
   color: #FAFAFA;        /* tekstkleur donkergrijs */
 }  
 #hoofdtitel {
@@ -19,10 +22,7 @@ html, body {                      /* geldt voor html en body */
     }
 
 .achtergrond {
-  width:700%;
-  height:200px;
-  overflow:auto;
-}
+
 /* 
 css property:background-image
 opacity
@@ -30,7 +30,7 @@ hulp? w3schools
 of video op informatica college vwo laatste video
 */
 
-  background-img: url(https://bestellen.fong-wah.nl/wp-content/uploads/2019/04/garnalen.jpg);
+}
 
 }    /* zorg dat border meetelt bij de width en height van boxen *                   /* standaard marge 0 */
 }
@@ -43,7 +43,8 @@ of video op informatica college vwo laatste video
 }
 
 header, footer {                  /* geldt voor header en footer */
-  margin: 10px 0px;
+  position: center
+  font-size: 100%;
 }
 
 main {                       
@@ -103,7 +104,7 @@ nav ul {
     list-style-type: none;
     margin: auto;
     padding: 0;
-    background-color: #a5140d;
+    background-color: rgb:( 241, 239, 234 )
     overflow: hidden;
 }
 
@@ -120,7 +121,7 @@ nav li a {
 }
 
 nav li a:hover {
-    background-color: #b20a02
+    background-color: black
 }
 
 nav li a.active {
