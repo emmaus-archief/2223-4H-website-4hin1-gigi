@@ -55,7 +55,7 @@ h1, h2, h3 {                      /* geldt voor h1 en h2 en h3 */
   margin: 10px 0px;
   text-align: center;             /* tekst centreren */
 } 
-
+h4 {}
 p {
   margin: 10px 0px;
   text-align: justify;       
