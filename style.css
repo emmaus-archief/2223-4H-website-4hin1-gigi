@@ -21,7 +21,7 @@ html, body {
   right: 60px
     }
 
-.achtergrond {
+
 
 /* 
 css property:background-image
@@ -59,7 +59,7 @@ h1, h2, h3 {                      /* geldt voor h1 en h2 en h3 */
 h4 {}
 p {
   margin: 10px 0px;
-  text-align: justify;       
+  text-align: left;       
   border-bottom-left-radius: ;/* tekst links en rechts uitvullen */
 }
 
