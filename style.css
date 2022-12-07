@@ -40,8 +40,8 @@ of video op informatica college vwo laatste video
   overflow: hidden; /* div krijgt hoogte van alle floats die erin zitten */
 }
 .lltg {
-  float: left;
-  width: 40%;
+  float: right, 100%;
+  width: 200px;
 }
 .acteur-beschrijving {
   float:left; 
@@ -71,6 +71,7 @@ main {
 h4 {}
 p {
   color: black; 
+  font-size: 25px;
   margin: 10px 0px;
   text-align: left;       
   border-bottom-left-radius: ;/* tekst links en rechts uitvullen */
@@ -104,13 +105,21 @@ h1 {
 
   H2 {
     color: white;
-    font-size: 30;
+    font-size: 50px;
     font-family: garamond, serif;
     margin: 10px 0px;
     text-align: center;
     position: center;
   }
-
+  
+  p {
+  color: black; 
+  font-size: 30x;
+  margin: 10px 0px;
+  text-align: left;       
+  border-bottom-left-radius: ;/* tekst links en rechts uitvullen */
+  }
+  
 .smalltext {
     text-align: center;
     font-size: 0.7em;
@@ -132,7 +141,6 @@ nav ul {
     list-style-type: none;
     margin: auto;
     padding: 0;
-    background-color: rgb:( 241, 239, 234 )
     overflow: hidden;
 }
 
