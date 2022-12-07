@@ -7,13 +7,8 @@
 
 /* Basisinstellingen voor alle pagina's, alleen aanpassen als je pro wilt worden */
 
-html, body {     
-  background-image: url("afbeeldingen/lantaarn.jpg");
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center;
-  margin: 0px;                    /* standaard marge 0 */
-  color: #FAFAFA;        /* tekstkleur donkergrijs */
+html, body {                      /* standaard marge 0 */
+  background-color: #f9e3e3;        /* tekstkleur donkergrijs */
 }  
 #hoofdtitel {
   position: absolute;
@@ -42,7 +37,6 @@ of video op informatica college vwo laatste video
   margin: 10px auto;              /* boven en onder 0 pixels marge, links en rechts marge gelijk verdeeld (gecentreerd) */
 }
 .acteur {
-  border:solid 2px red;
   overflow: hidden; /* div krijgt hoogte van alle floats die erin zitten */
 }
 .acteur-beschrijving {
@@ -70,10 +64,6 @@ main {
 }
     /* tekst uitvullen */
 
-h1, h2, h3 {                      /* geldt voor h1 en h2 en h3 */
-  margin: 10px 0px;
-  text-align: center;             /* tekst centreren */
-} 
 h4 {}
 p {
   color: black; 
@@ -99,9 +89,18 @@ p {
 
 /* Opmaak voor alle pagina's */
 
-h1, h2, h3 {
+h1 {
       color:white;
+  font-size: 55px;
+  font-family: lucida handwriting, cursive
+  margin: 10px 0px;
+  text-align: center;
+  position: center;
 }
+
+  H2 {
+    color: white;
+  }
 
 .smalltext {
     text-align: center;
@@ -120,6 +119,7 @@ a:hover {
 
 /* Navigatiebalk voor alle pagina's */
 nav ul {
+    border-radius: 25px;
     list-style-type: none;
     margin: auto;
     padding: 0;
@@ -128,21 +128,21 @@ nav ul {
 }
 
 nav ul li {
-    float: left;
+    float: center;
 }
 
 nav li a {
     display: block;
-    color: white;
+    color: black;
     text-align: center;
     padding: 14px 16px;
-    text-decoration: none;
+    font-family: copperplate, fantasy;
 }
 
 nav li a:hover {
-    background-color: black
+    background-color: white
 }
 
 nav li a.active {
-    background-color: black;
+    background-color: white;
 }
