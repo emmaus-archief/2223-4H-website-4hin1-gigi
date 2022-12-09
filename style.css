@@ -54,6 +54,21 @@ of video op informatica college vwo laatste video
   clear: left;
 }
 
+.nlb {
+  float: left;
+  width: 290px;
+  margin: 0.5em 1em 1em;
+  border: 20%;
+  clear: left;
+}
+.mg {
+    float: left;
+  width: 290px;
+  margin: 0.5em 1em 1em;
+  border: 20%;
+  clear: left;
+}
+
 
 img {
   width:100%;
@@ -103,7 +118,7 @@ h1 {
   position: center;
 }
 
-  H2 {
+  h2, h3, h4, h5 {
     color: white;
     font-size: 50px;
     font-family: garamond, serif;
@@ -111,14 +126,7 @@ h1 {
     text-align: center;
     position: center;
   }
-  h3 {
-    color: white;
-    font-size: 50px;
-    font-family: garamond, serif;
-    margin: 10px 0px;
-    text-align: center;
-    position: center;
-  }
+
   p {
   color: black; 
   font-size: 30x;
