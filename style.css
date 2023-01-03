@@ -39,39 +39,38 @@ of video op informatica college vwo laatste video
 .acteur {
   overflow: hidden; /* div krijgt hoogte van alle floats die erin zitten */
 }
-.lltg {
-  float: left;
-  width: 290px;
-  margin: 0.5em 1em 1em;
-  border: 20%;
-  clear: left;
-}
-.alsb {
-  float: left;
-  width: 290px;
-  margin: 0.5em 1em 1em;
-  border: 20%;
-  clear: left;
+.lltg-container {
+  justify-content: space-between;
+  width: 60%;
+  margin-left: 50px;
+  text-align: justify;
 }
 
-.nlb {
+.lltg-beschrijving {
+  padding-left: 50px;
   float: left;
-  width: 290px;
-  margin: 0.5em 1em 1em;
-  border: 20%;
-  clear: left;
 }
-.mg {
-    float: left;
+
+.alsb-container {
   width: 290px;
   margin: 0.5em 1em 1em;
   border: 20%;
-  clear: left;
+}
+
+.nlb-container {
+  width: 290px;
+  margin: 0.5em 1em 1em;
+border: 20%
+}
+.mg-container {
+  width: 290px;
+  margin: 0.5em 1em 1em;
+  border: 20%;
 }
 
 
 img {
-  width:100%;
+  width:50%;
 }
 
 header, footer {                  /* geldt voor header en footer */
