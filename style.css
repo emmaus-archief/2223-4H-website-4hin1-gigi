@@ -33,9 +33,10 @@ of video op informatica college vwo laatste video
 /* Indeling voor alle pagina's */
 
 .page {
-  width: 700px;                   /* vaste breedte van 700 pixels */
-  margin: 10px auto;              /* boven en onder 0 pixels marge, links en rechts marge gelijk verdeeld (gecentreerd) */
+  width: 250px;                   /* vaste breedte van 700 pixels */
+  margin: auto;              /* boven en onder 0 pixels marge, links en rechts marge gelijk verdeeld (gecentreerd) */
 }
+
 .acteur {
   overflow: hidden; /* div krijgt hoogte van alle floats die erin zitten */
 }
