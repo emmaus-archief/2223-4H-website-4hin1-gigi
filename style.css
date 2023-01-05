@@ -37,41 +37,75 @@ of video op informatica college vwo laatste video
   margin: auto;              /* boven en onder 0 pixels marge, links en rechts marge gelijk verdeeld (gecentreerd) */
 }
 
+.index-container{
+  border-style: hidden;
+  float: center;
+  padding-left: 225px;
+  display: flex;
+}
+
 .acteur {
   overflow: hidden; /* div krijgt hoogte van alle floats die erin zitten */
 }
 .lltg-container {
   justify-content: space-between;
-  width: 60%;
+  width: 95%;
   margin-left: 50px;
   text-align: justify;
+  display: flex;
 }
 
 .lltg-beschrijving {
   padding-left: 50px;
   float: left;
+  display: flex;
 }
 
 .alsb-container {
-  width: 290px;
-  margin: 0.5em 1em 1em;
-  border: 20%;
+  justify-content: space-between;
+  width: 95%;
+  margin-left: 50px;
+  text-align: justify;
+  display: flex;
+}
+
+.alsb-beschrijving {
+  padding-left: 50px;
+  float: left;
+  display: flex;
 }
 
 .nlb-container {
-  width: 290px;
-  margin: 0.5em 1em 1em;
-border: 20%
+ justify-content: space-between;
+  width: 95%;
+  margin-left: 50px;
+  text-align: justify;
+  display: flex;
 }
+
+.nlb-beschrijving {
+  padding-left: 50px;
+  float: left;
+  display: flex;
+}
+
 .mg-container {
-  width: 290px;
-  margin: 0.5em 1em 1em;
-  border: 20%;
+ justify-content: space-between;
+  width: 95%;
+  margin-left: 50px;
+  text-align: justify;
+  display: flex;
+}
+
+.mg-beschrijving {
+  padding-left: 50px;
+  float: left;
+  display: flex;
 }
 
 
 img {
-  width:50%;
+  width: 250px;
 }
 
 header, footer {                  /* geldt voor header en footer */
