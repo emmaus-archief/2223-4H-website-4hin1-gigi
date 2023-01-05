@@ -103,6 +103,173 @@ of video op informatica college vwo laatste video
   display: flex;
 }
 
+.bwd-container {
+  justify-content: space-between;
+  width: 95%;
+  margin-left: 50px;
+  text-align: justify;
+  display: flex;
+}
+
+.bwd-beschrijving {
+  padding-left: 50px;
+  float: left;
+  display: flex;
+}
+
+.ft-container {
+  justify-content: space-between;
+  width: 95%;
+  margin-left: 50px;
+  text-align: justify;
+  display: flex;
+}
+
+.ft-beschrijving {
+  padding-left: 50px;
+  float: left;
+  display: flex;
+}
+
+.fh-container {
+  justify-content: space-between;
+  width: 95%;
+  margin-left: 50px;
+  text-align: justify;
+  display: flex;
+}
+
+.fh-beschrijving {
+  padding-left: 50px;
+  float: left;
+  display: flex;
+}
+
+.md-container {
+  justify-content: space-between;
+  width: 95%;
+  margin-left: 50px;
+  text-align: justify;
+  display: flex;
+}
+
+.md-beschrijving {
+  padding-left: 50px;
+  float: left;
+  display: flex;
+}
+
+.tb-container {
+  justify-content: space-between;
+  width: 95%;
+  margin-left: 50px;
+  text-align: justify;
+  display: flex;
+}
+
+.tb-beschrijving {
+  padding-left: 50px;
+  float: left;
+  display: flex;
+}
+
+.cloy-container {
+  justify-content: space-between;
+  width: 95%;
+  margin-left: 50px;
+  text-align: justify;
+  display: flex;
+}
+
+.cloy-beschrijving {
+  padding-left: 50px;
+  float: left;
+  display: flex;
+}
+
+.la-container {
+  justify-content: space-between;
+  width: 95%;
+  margin-left: 50px;
+  text-align: justify;
+  display: flex;
+}
+
+.la-beschrijving {
+  padding-left: 50px;
+  float: left;
+  display: flex;
+}
+
+.miigb-container {
+  justify-content: space-between;
+  width: 95%;
+  margin-left: 50px;
+  text-align: justify;
+  display: flex;
+}
+
+.miigb-beschrijving {
+  padding-left: 50px;
+  float: left;
+  display: flex;
+}
+
+.kr-container {
+  justify-content: space-between;
+  width: 95%;
+  margin-left: 50px;
+  text-align: justify;
+  display: flex;
+}
+
+.kr-beschrijving {
+  padding-left: 50px;
+  float: left;
+  display: flex;
+}
+
+.avsa-container {
+  justify-content: space-between;
+  width: 95%;
+  margin-left: 50px;
+  text-align: justify;
+  display: flex;
+}
+
+.avsa-beschrijving {
+  padding-left: 50px;
+  float: left;
+  display: flex;
+}
+
+.ge-container {
+  justify-content: space-between;
+  width: 95%;
+  margin-left: 50px;
+  text-align: justify;
+  display: flex;
+}
+
+.ge-beschrijving {
+  padding-left: 50px;
+  float: left;
+  display: flex;
+}
+
+.hc-container {
+  justify-content: space-between;
+  width: 95%;
+  margin-left: 50px;
+  text-align: justify;
+  display: flex;
+}
+
+.hc-beschrijving {
+  padding-left: 50px;
+  float: left;
+  display: flex;
+}
 
 img {
   width: 250px;
