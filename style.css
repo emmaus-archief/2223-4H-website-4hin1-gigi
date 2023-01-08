@@ -271,6 +271,11 @@ of video op informatica college vwo laatste video
   display: flex;
 }
 
+.lltg-cast {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+
 img {
   width: 250px;
 }
