@@ -647,19 +647,29 @@ of video op informatica college vwo laatste video
   margin: 20px;
 }
 
-.castt
+.cast-lch {
   float: left;
   margin: 20px;
 }
 
-.cast-lijiaqi {
+.cast-ty {
   float: left;
   margin: 20px;
 }
 
-.cast-dylanwang {
+.cast-jc {
   float: left;
   margin: 20px;
+
+.cast-ish {
+    float: left;
+    margin: 20px;
+  }
+
+.cast-bjt {
+    float: left;
+    margin: 20px;
+  }
   
 img {
   width: 250px;
